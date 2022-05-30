@@ -3,8 +3,6 @@
 public class Test {
 
     public static void main(String[] args) {
-
-
         String s = "dfergthyjy0x00";
         s = s.replace((char) 0x00, ' ');
         s = s.replaceAll("\\u0000", "");
