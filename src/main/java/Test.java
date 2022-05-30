@@ -7,8 +7,7 @@ import java.util.stream.Collectors;
 public class Test {
 
     public static void main(String[] args) {
-//        BatchEventEntity batchEntity = JSON.parseObject("{\"dataSourceId\":\"[\\\"a31f67bde45f59f525d9b0b35783ee20e243eadd\\\"]\",\"date\":\"20220503\",\"traceContext\":{\"spanId\":0,\"resultStatus\":\"success\",\"startTime\":0,\"endTime\":0,\"procTime\":0,\"rootTraceStartTime\":0,\"costFromHandler\":0}}", BatchEventEntity.class);
-//        System.out.println(batchEntity);
+
 
         String s = "dfergthyjy0x00";
         s = s.replace((char) 0x00, ' ');
