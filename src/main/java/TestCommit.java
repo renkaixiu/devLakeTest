@@ -11,5 +11,6 @@ public class TestCommit {
         System.out.println("testCommit");
         System.out.println("testCommit");
         System.out.println("testCommit");
+        System.out.println("testCommit");
     }
 }
